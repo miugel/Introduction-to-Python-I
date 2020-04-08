@@ -1,4 +1,4 @@
-# for the exercise, look up the methods and functions that are available for use with Python lists
+# for this exercise, look up the methods and functions that are available for use with Python lists
 
 x = [1, 2, 3]
 y = [8, 9, 10]
@@ -21,7 +21,7 @@ print(x)
 x.remove(8)
 print(x)
 
-# Change x so that it is [1, 2, 3, 4, 9, 99, 10]
+# change x so that it is [1, 2, 3, 4, 9, 99, 10]
 
 x.insert(5, 99)
 print(x)
